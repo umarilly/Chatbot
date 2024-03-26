@@ -26,8 +26,3 @@ This project is a simple chatbot implemented using Python, Flask, Keras, NLTK, a
 1. Install the required libraries using `pip install -r requirements.txt`.
 2. Run the Flask application using `python app.py`.
 3. Open your web browser and navigate to `http://localhost:5000` to access the chatbot interface.
-
-## Contributors
-
-- [Your Name](https://github.com/umarilly)
-
